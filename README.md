@@ -1,3 +1,3 @@
 Hello GitHub World
 
-## Bio: Born n Raised in Taiwan
+## Bio: Born n raised in Taiwan. Love cooking
